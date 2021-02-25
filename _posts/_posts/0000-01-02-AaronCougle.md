@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"America is made of speed - hot, nasty, badass speed."
 Use the left arrow to go back!
